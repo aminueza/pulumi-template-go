@@ -1,0 +1,3 @@
+config:
+  azure:environment: pipeline
+  pulumi:template: azure-go

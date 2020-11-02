@@ -1,0 +1,3 @@
+name: azuretest-go
+runtime: go
+description: A minimal Azure Go Pulumi program
